@@ -1,6 +1,6 @@
 services:
   flask-app:
-    image: DevopLabs/flask-app:latest
+    image: noroi/flask-app:latest
   nginx:
     image: nginx:latest
     ports:
